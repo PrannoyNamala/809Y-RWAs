@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rwa1_namala.dir/main.cpp.o  -o rwa1_namala 
